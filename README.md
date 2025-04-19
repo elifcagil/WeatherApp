@@ -57,3 +57,17 @@ The app is built using the **OpenWeatherMap API**, and it is enhanced with **Lot
 1. Clone this project:
    ```bash
    git clone https://github.com/username/WeatherApp.git
+
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork the repository, submit issues, or make pull requests if you want to improve the project. Contributions are always welcome!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

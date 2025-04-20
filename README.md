@@ -47,7 +47,9 @@ The app is built using the **OpenWeatherMap API**, and it is enhanced with **Lot
 
 ## 🖼️ Demo
 
-![ToDoListApp Demo](WeatherApp.gif)
+<p align="center">
+  <img src="WeatherApp.gif" alt="WeatherApp Demo" width="300" />
+</p>
 
 
 ---

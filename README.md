@@ -47,7 +47,7 @@ The app is built using the **OpenWeatherMap API**, and it is enhanced with **Lot
 
 ## 🖼️ Demo
 
-[Click here to watch the demo](demo.mov)
+![ToDoListApp Demo](WeatherApp.gif)
 
 
 ---
